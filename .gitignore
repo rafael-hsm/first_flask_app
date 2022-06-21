@@ -103,7 +103,10 @@ celerybeat.pid
 
 # Environments
 .env
+.idea
+.spyder
 .venv
+.vs
 env/
 venv/
 ENV/
@@ -127,3 +130,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+config.py
